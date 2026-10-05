@@ -1,0 +1,12 @@
+{
+  "name": "p2a-fisicaro-2023",
+  "owner": {"name": "TengxiangLii"},
+  "metadata": {"description": "Paper2Agent output for Fisicaro et al., Principles of isomer stability in small clusters (Mater. Adv. 2023)"},
+  "plugins": [
+    {
+      "name": "fisicaro2023",
+      "source": "./plugins/fisicaro2023",
+      "description": "Query the 43,606-isomer DFT database and read the paper behind it"
+    }
+  ]
+}

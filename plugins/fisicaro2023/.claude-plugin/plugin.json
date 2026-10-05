@@ -1,0 +1,8 @@
+{
+  "name": "fisicaro2023",
+  "description": "Isomer database (43,606 DFT minima of Na, Mg, Al, Al12Si, Si and Ge clusters) as MCP tools, plus a reviewed reading skill for the paper 'Principles of isomer stability in small clusters' (Fisicaro, Schaefer, Finkler, Goedecker, Mater. Adv. 2023).",
+  "version": "0.1.0",
+  "author": {"name": "TengxiangLii"},
+  "license": "MIT",
+  "keywords": ["clusters", "isomers", "dft", "bigdft", "minima-hopping", "materials-cloud", "paper2agent"]
+}
